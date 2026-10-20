@@ -1,0 +1,36 @@
+{
+  "name": "SoulBreak",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "SoulBreak": {
+        "$className": "Folder",
+        "Shared": {
+          "$path": "src/shared"
+        }
+      }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "SoulBreak": {
+        "$className": "Folder",
+        "Server": {
+          "$path": "src/server"
+        }
+      }
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "SoulBreak": {
+          "$className": "Folder",
+          "Client": {
+            "$path": "src/client"
+          }
+        }
+      }
+    }
+  }
+}

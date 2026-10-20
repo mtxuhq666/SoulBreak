@@ -1,0 +1,29 @@
+# Roblox Studio
+*.rbxl
+*.rbxlx
+*.rbxl-temp
+
+# Rojo
+.rojo-build/
+.rojo-server/
+
+# Wally
+.wally/
+
+# Node.js (si utilisé)
+node_modules/
+package-lock.json
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
