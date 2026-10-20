@@ -13,6 +13,8 @@ Ce guide explique comment CHAQUE membre de l'équipe doit procéder pour travail
 - ✅ Créé tout le code du jeu
 - ✅ Envoyé le projet sur GitHub
 - ✅ Le repository est ici : https://github.com/mtxuhq666/SoulBreak
+- ✅ Le guide de collaboration créé
+- ✅ Tout est sur GitHub !
 
 **Ce que vous devez faire MAINTENANT :**
 - ⏭️ Installer Roblox Studio
