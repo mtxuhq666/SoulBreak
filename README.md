@@ -139,5 +139,8 @@ SoulBreak/
 1. Lire le Game Design Document (`docs/GDD.md`)
 2. Consulter la roadmap dans `docs/ROADMAP.md`
 3. Vérifier les tâches en cours dans `docs/TASKS.md`
-4. **IMPORTANT** : Lire le guide d'équipe DÉTAILLÉ dans `docs/GUIDE_EQUIPE.md`
-5. **IMPORTANT** : Lire les tâches détaillées par rôle dans `docs/TACHES_DETAILLEES.md`
+4. **IMPORTANT** : Lire le guide de collaboration DÉTAILLÉ dans `docs/GUIDE_COLLABORATION.md`
+5. **IMPORTANT** : Lire le guide d'équipe dans `docs/GUIDE_EQUIPE.md`
+6. **IMPORTANT** : Lire les tâches détaillées par rôle dans `docs/TACHES_DETAILLEES.md`
+
+**Repository GitHub :** https://github.com/mtxuhq666/SoulBreak
